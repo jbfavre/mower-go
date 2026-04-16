@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"fmt"
 	"log"
-	"mower"
+	"mower-go/src/mower"
 	"os"
 )
 
